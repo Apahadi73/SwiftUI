@@ -8,15 +8,6 @@ https://www.hackingwithswift.com/100/swiftui
 ## Credit:
 - Readme used from : clarknt - github
 
-## Completion status
-
-Type               | Number  | Completion
-:---               |  :---:  |   :---:
-Projects           | 19 / 19 | 100%
-Challenges         | 57 / 57 | 100%
-Milestone Projects |  6 / 6  | 100%
-Challenge days     |  1 / 1  | 100%
-
 ## Preview
 
 *Within each project are larger versions of the screenshots.*
